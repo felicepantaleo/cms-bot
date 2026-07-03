@@ -1297,9 +1297,11 @@ felicepantaleo:
 - RecoLocalCalo/HGCalRecProducers
 - RecoParticleFlow/PFClusterProducer
 - RecoHGCal
+- RecoTICL
 - SimG4CMS/Calo
 - SimDataFormats/Associations
 - SimDataFormats/CaloAnalysis
+- PhysicsTools/TruthInfo
 mtosi:
 - DQMOffline/Trigger
 - DQM/HLTEvF
